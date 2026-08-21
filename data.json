@@ -1,0 +1,26 @@
+[
+    {
+        "name": "hsg",
+        "age": 23,
+        "email": "asdsafg",
+        "pin": 1232,
+        "accountNo": "1235",
+        "balance": 0
+    },
+    {
+        "name": "Harsh",
+        "age": 22,
+        "email": "sainiharsha@gmail.com",
+        "pin": 1111,
+        "accountNo": "1234",
+        "balance": 0
+    },
+    {
+        "name": "noni ",
+        "age": 23,
+        "email": "noni@mail",
+        "pin": 1010,
+        "accountNo": "as9E4#0",
+        "balance": 1000
+    }
+]
